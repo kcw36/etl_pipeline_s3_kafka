@@ -1,10 +1,10 @@
 # ETL Pipeline
 - This project provides an extract, transform load pipeline alongside instructions and infrastructure to set up AWS resources and database to use for the pipeline.
-- This pipeline can operate on S3 bucekts and Kafka streams
+- This pipeline can operate on S3 buckets and Kafka streams
 - This pipeline will load into a database of your choosing as long as it is supported by `psycopg`
 
 ## More Information
-- Look to the individual diretcories for more details on hoe to use each asset of this project
+- Look to the individual directories for more details on how to use each asset of this project
 - Pipeline
   - The pipeline itself
   - Instructions on how to run, how to setup your config files etc.
